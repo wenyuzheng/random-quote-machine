@@ -1,2 +1,2 @@
 # Random Quote Machine
-This is a React App that generated random quotes. User stories and examples are listed (here)[https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-random-quote-machine] in FreeCodeCamp.
+This is a React App that generated random quotes. User stories and examples are listed [here](https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-random-quote-machine) in FreeCodeCamp.
